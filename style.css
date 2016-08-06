@@ -1,0 +1,28 @@
+* {
+   outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+.image {
+	max-width: 460px;
+	float: left; 
+	width: 275px;
+	height: 275px;
+	margin-right: 25px;
+}
+.description{
+	max-width: 705px;
+	float: right;
+	margin-top: 30px;
+	}
+.title{
+	background: ; 
+	float: center;
+	font: 
+}
